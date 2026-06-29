@@ -17,7 +17,14 @@ If you said the UI looks not good in your computer? Try [ServerConsole.py](src/S
 
 ### Which can I download if my computer have no python?
 Common Linux and MacOS all have Python.
-If you're Windows without Python , I'll upload it later.
+If you're Windows without Python , I'll also have some stand-alone exes.
+[ServerConsole.exe](exe/ServerConsole.exe)
+[ClientConsole.exe](exe/ClientConsole.exe)
+[ServerTUI.exe](exe/ServerTUI.exe)
+[ClientTUI.exe](exe/ClinetTUI.exe)
+[ServerTk.exe](exe/ServerTk.exe)
+[ClientTk.exe](exe/ClientTk.exe)
+[ClientFWUI.exe](src/ClientFWUI.EXE)
 
 ## How 2 Use
 ### Client
